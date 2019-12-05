@@ -18,3 +18,10 @@ this is a collection of css class that are used by some renowned websites
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.responsive-bg-image{
+    background-image:url('../images/bg.png');
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;
+}

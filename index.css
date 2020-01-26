@@ -7,6 +7,16 @@ this is a collection of css class that are used by some renowned websites
 .firebase-box-shadow {
     box-shadow: 0 1px 8px 0 rgba(0,0,0,.2), 0 3px 4px 0 rgba(0,0,0,.14), 0 3px 3px -2px rgba(0,0,0,.12);
 }
+
+.fullstory-card-shadow{
+    box-shadow: 0 0 20px rgba(0,0,0,.07), 0 0 15px rgba(0,0,0,.05);
+}
+
+.taskade-console.card-shadow{
+    -webkit-box-shadow: 0 3px 2px 0 rgba(0,0,0,0.1);
+    box-shadow: 0 3px 2px 0 rgba(0,0,0,0.1);
+}
+
 .skill-element-single:hover{
     /*background: #D5E8C1;*/
     box-shadow: 0 0px 0px 0 rgba(0,0,0,0), 0 0px 0px 0 rgba(0,0,0,0), 0 3px 3px -2px rgba(0,0,0,.12);
